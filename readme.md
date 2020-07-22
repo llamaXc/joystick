@@ -6,5 +6,10 @@ Joystick Test is a webpage that allows users to practice using a joystick or gam
 
 Download this repo and put in a folder. Then open Google Chrome and open 'index.html'
 
+## Photos
+
+![Image of Webpage](./screenshot.png)
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
