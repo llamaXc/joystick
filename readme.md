@@ -13,7 +13,7 @@ Joystick Test is a webpage that allows users to practice using a joystick or gam
 * Practice mode: Get used to the feel of the movement. View number of targets hit in top left.
 
 ## Installation
-* Visit http://http://13.58.66.17/ for hosted version.
+* Visit http://13.58.66.17/joystick/ for hosted version.
 * Download the 'page_src' directory. Then open Google Chrome and press Ctrl+O to open a file. Navigate to the page_src directory and open 'page_src/index.html'
 
 ## Photos
