@@ -1,5 +1,3 @@
-successfully# Joystick Test
-
 Joystick Test is a webpage that allows users to practice using a joystick or gamepad.
 
 ## Features
